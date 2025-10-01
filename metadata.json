@@ -1,0 +1,5 @@
+{
+  "name": "Generador de Citaciones JPL",
+  "description": "Una aplicación para generar citaciones de tránsito extrayendo automáticamente datos de documentos de denuncia y registro de vehículos usando IA.",
+  "requestFramePermissions": []
+}

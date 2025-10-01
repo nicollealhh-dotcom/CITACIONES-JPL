@@ -1,0 +1,21 @@
+{
+  "name": "Generador de Citaciones JPL",
+  "short_name": "Citaciones JPL",
+  "description": "Una aplicación para generar citaciones de tránsito extrayendo automáticamente datos de documentos de denuncia y registro de vehículos usando IA.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f1f5f9",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
